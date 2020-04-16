@@ -1,0 +1,95 @@
+header{
+    text-align: center;
+    padding: 3%;
+    color: rgb(13, 0, 20);
+    background-image: linear-gradient(to left, rgba(83, 75, 151, 0.151), #ffffff2f);
+}
+section{
+    padding: 5%;
+    text-align: center;
+}
+footer{
+    padding: 2%;
+    text-align: center;
+    color: rgb(230, 230, 230);
+    background-color: rgb(10, 0, 48);
+}
+hr{
+    width: 7%;
+	border-top: 7px solid #220e58 !important;
+}
+.col-sm-3{
+    padding: 2%;
+}
+p{
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+}
+.text{
+    padding: 2%;
+}
+#tit{
+    font-family:"Franklin Gothic Medium";
+    margin: 3% 0% 0% 0%;
+}
+#direita{
+    text-align:left;
+}
+
+#logo{
+    width: 10%;
+    animation: App-logo-spin infinite 20s linear;
+    animation: spin 5s linear infinite;
+    animation: spin 5s linear infinite;
+    margin: 2% 0% 0% 0%;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+#layouthome{
+    width: 90%;
+    margin-right: 20%;
+}
+
+.subtit{
+    margin-top: 30%;
+}
+.navbar{
+    background-color: #ffffff!important;
+    border: none!important;
+    position: fixed!important;
+    width: 100%;
+}
+a{ 
+     color: rgb(34, 34, 34)!important;
+     letter-spacing: 1px;
+     font-size: 15px;
+     text-decoration: none!important;
+}
+.navbar-brand{
+    font-size: 26px; font-weight: 700 !important;
+}
+.adm{
+    color: #ffffff !important;
+}
+.alinhar{
+    text-align: center;
+}
+.separar{
+    margin: 0% 0% 4% 0%;
+}
+.admin{
+    padding: 6%;
+}
+.sair{
+    margin: 3% 0% 0% 0% !important;
+}
